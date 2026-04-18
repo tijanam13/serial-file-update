@@ -1,0 +1,14 @@
+Izvestaj o greskama (Kolicina) - 260311
++----+----------+--------------+-----+----------+---------------------------------+
+|          Proizvod            |    Promena     |                                 |
++----+----------+--------------+-----+----------+              Greska             +
+| Id | Kolicina |    Naziv     | Tip | Kolicina |                                 |
++----+----------+--------------+-----+----------+---------------------------------+
+| 13 |       64 | Pro_13       |  -  |      100 | Nepostojeca kolicina proizvoda. |
+| 25 |      120 | Cokolada     |  -  |      130 | Nepostojeca kolicina proizvoda. |
+| 33 |        0 | Sok          |  -  |      120 | Nepostojeca kolicina proizvoda. |
+| 33 |        0 | Sok          |  -  |       23 | Nepostojeca kolicina proizvoda. |
+| 50 |      250 | Pro_50       |  -  |      800 | Nepostojeca kolicina proizvoda. |
+| 60 |      300 | Pro_60       |  -  |      800 | Nepostojeca kolicina proizvoda. |
+| 70 |        0 | Pro_70       |  -  |       50 | Nepostojeca kolicina proizvoda. |
++----+----------+--------------+-----+----------+---------------------------------+
